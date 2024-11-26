@@ -159,7 +159,6 @@ p {
     display: flex;
     justify-content: center;
     align-items: center;
-    height: 15vh;
 }
 
 .cta-modal {
@@ -168,6 +167,7 @@ p {
     border-radius: 6px;
     padding-top: 20px;
     padding-bottom: 20px;
+    margin: 50px;
     color: #E5E7EB;
     display: flex;
     justify-content: space-around;
